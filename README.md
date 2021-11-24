@@ -6,7 +6,7 @@
 
 # Syllabus
 
-- [][Hello World](#helloworld)
+- [Hello World](#helloworld)
 - [Control Flow](#controlflow)
 - [Lists](#lists)
 - [Loops](#loops)
@@ -19,5 +19,4 @@
 - [Classes](#classes)
 - [Python: Code Challenges II](#codechallenges2)
 - [Next Steps](#nextsteps)
-
 
